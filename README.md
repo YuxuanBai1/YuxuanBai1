@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I am YuxuanBai(in github's username is YuxuanBai1)
+I am proficient in it https://img.shields.io/badge/python-3.11-orange
 <!--
 **YuxuanBai1/YuxuanBai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
