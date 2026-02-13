@@ -28,7 +28,7 @@
 - **Email**: [Yuxuanbai1@outlook.com](mailto:Yuxuanbai1@outlook.com)
 - **GitHub**: [@YuxuanBai1](https://github.com/YuxuanBai1)
 - **Bilibili**: [@Bainoon](https://space.bilibili.com/2024874162)
-- **Zhihu（不常用）**:  [@YuxuanBai][https://www.zhihu.com/people/36-87-78-1-96]
+- **Zhihu（不常用）**:  [@YuxuanBai][https://www.zhihu.com/people/YuxuanBai]
 
 ---
 
